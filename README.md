@@ -36,11 +36,11 @@ $ npm start
 ### Version 1
 
 - [ ] Show splash screen
-- [ ] Add Idea Description
+- [ ] Add idea description
 
 ### Version 2
 
-- [ ] Persist Ideas
+- [ ] Persist ideas
 
 ### Version 3
 
