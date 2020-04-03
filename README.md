@@ -32,7 +32,6 @@ $ npm start
 - [x] Add new ideas
 - [x] Display ideas list
 - [x] Delete individual ideas
-- [x] Get recommendations based on currently logged activities
 
 ### Version 1
 
