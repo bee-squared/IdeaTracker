@@ -1,6 +1,6 @@
 # IdeaTracker
 
-IdeaTracker is a react native app that allows users to track their ideas.
+IdeaTracker is a react native app that allows users to track their ideas. Inspired by an idea?...Jot it down here.
 
 ## Getting Started
 
@@ -35,12 +35,12 @@ $ npm start
 
 ### Version 1
 
-- [ ] Show splash screen
-- [ ] Add idea description
+- [ ] Persist ideas
 
 ### Version 2
 
-- [ ] Persist ideas
+- [ ] Show splash screen
+- [ ] Add idea description
 
 ### Version 3
 
