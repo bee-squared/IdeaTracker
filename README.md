@@ -1,4 +1,4 @@
-# Navigator
+# IdeaTracker
 
 IdeaTracker is a react native app that allows users to track their ideas.
 
