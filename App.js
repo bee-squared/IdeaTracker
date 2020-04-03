@@ -9,7 +9,7 @@ export default function App() {
 
   const addIdeaHandler = (ideaTitle) => {
     setCourseIdeas(currentIdeas => [...currentIdeas, { id: Math.random().toString(), value: ideaTitle }]);
-    // note: only renders once
+    // note: only renders once even though there are multiple set functions here (they are grouped)
     setIsAddMode(false);
   }
 
@@ -20,7 +20,7 @@ export default function App() {
   }
 
   const cancelIdeaAdditionHandler = () => {
-    setIsAddMode(false)
+    setIsAddMode(false);
   }
 
   return (
